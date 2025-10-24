@@ -4,7 +4,7 @@ Submitted by: **Yushan Cheng**
 
 This web app: Discover Art is a React web app that lets users explore random artworks from the Harvard Art Museums collection. Each time the user clicks Discover, the app fetches one random artwork through the museum’s public API and displays its image along with three consistent attributes: title, artist, culture, and date.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 https://imgur.com/a/BKEX9Jz.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
